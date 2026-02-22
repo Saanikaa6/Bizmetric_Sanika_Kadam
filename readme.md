@@ -17,8 +17,12 @@ List comprehensions
 Pattern printing programs
 Basic problem-solving programs
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### **Assignment No. - 2 :**
 This assignment covers List Comprehension and Lambda Function related questions. It helps in writing shorter and cleaner code and improves basic problem-solving skills in Python.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Project - I : Restaurant Bill Generator**
  This is a Python project built using Python and SQL, where I've connected Python to a SQL Server database using pyodbc.The project includes Object Oriented Programming(OOP) concepts.
