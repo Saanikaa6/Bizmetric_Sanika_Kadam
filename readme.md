@@ -1,7 +1,7 @@
 ### **Assignment No. - 1 :**
 This assignment covers understanding of Python basics, data structures, control statements, functions, OOP concepts, and real-world problem-solving programs.
 
-Topics Covered: 
+Topics Covered : 
 
 String operations
 List operations
@@ -33,6 +33,7 @@ This assignment covers List Comprehension and Lambda Function related questions.
 
 I got to learn database connectivity from this, I also practised more on SQL queries in python.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### **Project - II : E-commerce System**
 This is a Python project developed using OOP concepts. It is a basic E-commerce system where users can view products, select items by entering the product ID, add them to a cart, and generate the final bill. It helped me understand how classes and objects work in real-life scenarios.
 
