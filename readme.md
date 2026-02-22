@@ -36,7 +36,7 @@ I got to learn database connectivity from this, I also practised more on SQL que
 ### **Project - II : E-commerce System**
 This is a Python project developed using OOP concepts. It is a basic E-commerce system where users can view products, select items by entering the product ID, add them to a cart, and generate the final bill. It helped me understand how classes and objects work in real-life scenarios.
 
-Functionality:
+Functionality :
 
 1. Displays available products with ID, price, and stock.
 2. Allows the user to select products using Product ID.
