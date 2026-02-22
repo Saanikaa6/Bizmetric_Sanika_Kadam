@@ -1,4 +1,4 @@
-### **Assignment No. - 1 : **
+### **Assignment No. - 1 :**
 This assignment covers understanding of Python basics, data structures, control statements, functions, OOP concepts, and real-world problem-solving programs.
 
 Topics Covered: 
@@ -17,7 +17,7 @@ List comprehensions
 Pattern printing programs
 Basic problem-solving programs
 
-### **Assignment No. - 2 : **
+### **Assignment No. - 2 :**
 This assignment covers List Comprehension and Lambda Function related questions. It helps in writing shorter and cleaner code and improves basic problem-solving skills in Python.
 
 ### **Project - I : Restaurant Bill Generator**
