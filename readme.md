@@ -3,19 +3,19 @@ This assignment covers understanding of Python basics, data structures, control 
 
 Topics Covered : 
 
-String operations
-List operations
-Dictionary operations
-Set operations
-Conditional statements (if-elif-else)
-Loops
-Functions
-Object-Oriented Programming (Classes & Methods)
-Exception handling
-Type casting
-List comprehensions
-Pattern printing programs
-Basic problem-solving programs
+- String operations
+- List operations
+- Dictionary operations
+- Set operations
+- Conditional statements (if-elif-else)
+- Loops
+- Functions
+- Object-Oriented Programming (Classes & Methods)
+- Exception handling
+- Type casting
+- List comprehensions
+- Pattern printing programs
+- Basic problem-solving programs
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
